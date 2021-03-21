@@ -1,1 +1,8 @@
 It was the best of days, it was the worst of days.
+
+git init 
+git add -> adds to stagin area
+git commit -m "message in present tense" -> commits with message
+git log -> check commit history
+git diff chapter 2.txt -> compares differences
+git checkout chapter2.txt -> replaces version on working directory with the one from localRepository
